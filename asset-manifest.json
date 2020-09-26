@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rick-y-morty/static/css/main.bb78013d.chunk.css",
+    "main.js": "/rick-y-morty/static/js/main.188f5584.chunk.js",
+    "main.js.map": "/rick-y-morty/static/js/main.188f5584.chunk.js.map",
+    "runtime-main.js": "/rick-y-morty/static/js/runtime-main.5031ae6f.js",
+    "runtime-main.js.map": "/rick-y-morty/static/js/runtime-main.5031ae6f.js.map",
+    "static/js/2.1ac2cbba.chunk.js": "/rick-y-morty/static/js/2.1ac2cbba.chunk.js",
+    "static/js/2.1ac2cbba.chunk.js.map": "/rick-y-morty/static/js/2.1ac2cbba.chunk.js.map",
+    "index.html": "/rick-y-morty/index.html",
+    "precache-manifest.51ec505e40288ed10c34072b22044ce1.js": "/rick-y-morty/precache-manifest.51ec505e40288ed10c34072b22044ce1.js",
+    "service-worker.js": "/rick-y-morty/service-worker.js",
+    "static/css/main.bb78013d.chunk.css.map": "/rick-y-morty/static/css/main.bb78013d.chunk.css.map",
+    "static/js/2.1ac2cbba.chunk.js.LICENSE.txt": "/rick-y-morty/static/js/2.1ac2cbba.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/rick-y-morty/static/media/logo.42d6efdb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5031ae6f.js",
+    "static/js/2.1ac2cbba.chunk.js",
+    "static/css/main.bb78013d.chunk.css",
+    "static/js/main.188f5584.chunk.js"
+  ]
+}
